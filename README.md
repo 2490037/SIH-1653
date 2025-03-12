@@ -22,7 +22,19 @@ Ministry of Defence
 (https://github.com/user-attachments/files/19212958/use.cases.pdf)
 
 ## Technology Stack
+1.Frontend – React.js/Angular for UI, WebRTC for video conferencing.
 
+2.Backend – Node.js/Django for APIs, WebSockets for real-time communication.
+
+3'Database – PostgreSQL for structured data, MongoDB for unstructured data.
+
+4.AI & NLP – GPT/BERT for question analysis, Google Speech-to-Text for voice processing.
 
 ## Dependencies
+1.Cloud & Hosting – AWS/Google Cloud for scalable deployment.
 
+2.Security – OAuth 2.0, JWT for authentication, AES-256 for encryption.
+
+3.Analytics – ELK Stack/Grafana for system monitoring.
+
+4.Integration – Zoom SDK/Jitsi for video calls, Firebase for notifications.
