@@ -14,10 +14,12 @@ Ministry of Defence
 
 
 ## Proposed Solution / Architecture Diagram
+(https://github.com/user-attachments/files/19212955/proposed.solution.pdf)
 
 
 ## Use Cases
 
+(https://github.com/user-attachments/files/19212958/use.cases.pdf)
 
 ## Technology Stack
 
